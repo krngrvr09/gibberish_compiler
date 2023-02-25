@@ -1,0 +1,13 @@
+9:1 ***ERROR*** unterminated string literal ignored"\n unterminated \\ string \t with \" valid \? escape \'
+10:1 ***ERROR*** unterminated string literal ignored"\' unterminated \n string \\ with \t valid \" escape \?
+11:1 ***ERROR*** unterminated string literal ignored"\? unterminated \' string \n with \\ valid \t escape \"
+12:1 ***ERROR*** unterminated string literal ignored"\" unterminated \? string \' with \n valid \\ escape \t
+13:1 ***ERROR*** unterminated string literal ignored"\t unterminated \" string \? with \' valid \n escape \\
+14:1 ***ERROR*** unterminated string literal ignored"\\ unterminated \t string \" with \? valid \' escape \n
+15:1 ***ERROR*** string literal with bad escaped character ignored"terminated string with \/ invalid escape"
+16:1 ***ERROR*** unterminated string literal ignored"terminated string with invalid escape\"
+17:1 ***ERROR*** unterminated string literal with bad escaped character ignored"unterminated string with \ invalid escape
+18:1 ***ERROR*** string literal with bad escaped character ignored"unterminated string with invalid escape \
+
+19:44 ***ERROR*** unterminated string literal ignored"unterminated string
+20:36 ***ERROR*** unterminated string literal ignored"

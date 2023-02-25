@@ -1,0 +1,20 @@
+""
+"hello"
+"\n terminated \\ string \t with \" valid \? escape \'"
+"\' terminated \n string \\ with \t valid \" escape \?"
+"\? terminated \' string \n with \\ valid \t escape \""
+"\" terminated \? string \' with \n valid \\ escape \t"
+"\t terminated \" string \? with \' valid \n escape \\"
+"\\ terminated \t string \" with \? valid \' escape \n"
+"\n unterminated \\ string \t with \" valid \? escape \'
+"\' unterminated \n string \\ with \t valid \" escape \?
+"\? unterminated \' string \n with \\ valid \t escape \"
+"\" unterminated \? string \' with \n valid \\ escape \t
+"\t unterminated \" string \? with \' valid \n escape \\
+"\\ unterminated \t string \" with \? valid \' escape \n
+"terminated string with \/ invalid escape"
+"terminated string with invalid escape\"
+"unterminated string with \ invalid escape
+"unterminated string with invalid escape \
+"unterminated string
+string with quotes after characters"
