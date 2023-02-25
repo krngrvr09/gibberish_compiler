@@ -1,0 +1,13 @@
+""
+"hello"
+"\n terminated \\ string \t with \" valid \? escape \'"
+"\' terminated \n string \\ with \t valid \" escape \?"
+"\? terminated \' string \n with \\ valid \t escape \""
+"\" terminated \? string \' with \n valid \\ escape \t"
+"\t terminated \" string \? with \' valid \n escape \\"
+"\\ terminated \t string \" with \? valid \' escape \n"
+UNKNOWN TOKEN
+UNKNOWN TOKEN
+UNKNOWN TOKEN
+UNKNOWN TOKEN
+UNKNOWN TOKEN
